@@ -1,0 +1,28 @@
+{
+  "name": "fluent-ui",
+  "version": "1.0.0-alpha",
+  "description": "📱Web Components that Implement Microsoft's UWP Design & Fluent Design System.",
+  "main": "./src/fui.js",
+  "scripts": {
+    "test": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuuki-Sakura/Fluent-UI.git"
+  },
+  "keywords": [
+    "css",
+    "javascript",
+    "microsoft",
+    "fluent-design",
+    "ui-framework",
+    "winui",
+    "ui-components"
+  ],
+  "author": "Yuuki-Sakura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yuuki-Sakura/Fluent-UI/issues"
+  },
+  "homepage": "https://github.com/Yuuki-Sakura/Fluent-UI#readme"
+}
