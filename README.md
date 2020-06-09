@@ -10,74 +10,74 @@ English | [简体中文](https://github.com/Yuuki-Sakura/Fluent-UI/blob/master/R
 
 - Button
   - Button ✔
-  - DropDownButton ❌
-  - ToggleButton ❌
-  - SplitButton ❌
+  - ~~DropDownButton~~
+  - ~~ToggleButton~~
+  - ~~SplitButton~~
 
-* CheckBox ❌
-* Radio ❌
-* Toggle ❌
-* ComboBox ❌
+* ~~CheckBox~~
+* ~~Radio~~
+* ~~Toggle~~
+* ~~ComboBox~~
 
-- Slider ❌
+- ~~Slider~~
   - Horizontal
   - Vertical
 
-* ColorPicker ❌
+* ~~ColorPicker~~
 ### Collections
-* ListView ❌
-* GridView ❌
-* FlipView ❌
-* TreeView ❌
-* DataGrid ❌
+* ~~ListView~~
+* ~~GridView~~
+* ~~FlipView~~
+* ~~TreeView~~
+* ~~DataGrid~~
 
 ### Date and Time
-* CalenderDatePicker ❌
-* CalendarView ❌
-* DatePicker ❌
-* TimePicker ❌
+* ~~CalenderDatePicker~~
+* ~~CalendarView~~
+* ~~DatePicker~~
+* ~~TimePicker~~
 
 ### Dialogs and Flyouts
-* Dialog ❌
-* Flyout ❌
-* TeachingTip ❌
+* ~~Dialog~~
+* ~~Flyout~~
+* ~~TeachingTip~~
 
 ### Layout
-* Responsive Tools ❌
-* GridLayout ❌
+* ~~Responsive Tools~~
+* ~~GridLayout~~
 
 ### Media
-* MediaPlayer ❌
-* Inking controls ❌
+* ~~MediaPlayer~~
+* ~~Inking controls~~
 
 ### Menus and Toolbars
-* AppBarButton ❌
-* AppBarSeparator ❌
-* AppBarToggleButton ❌
-* CommandBar ❌
-* MenuBar ❌
-* CommandBarFlyout ❌
+* ~~AppBarButton~~
+* ~~AppBarSeparator~~
+* ~~AppBarToggleButton~~
+* ~~CommandBar~~
+* ~~MenuBar~~
+* ~~CommandBarFlyout~~
 
 ### Transition/Motion
-* Connected Animation ❌
-+ Easing Functions ❌
+* ~~Connected Animation~~
++ ~~Easing Functions~~
   - Standard
   - Accelerate
   - Decelerate
-+ Page Transitions ❌
++ ~~Page Transitions~~
   - Page refresh/Entrance
   - Drill/Drillln
   + Horizontal slide
     - Right
     - Left
   - Suppress
-* Theme Transitions ❌
-* Animation Interop ❌
-* Implicit Transitions ❌
-* ParallaxView ❌
+* ~~Theme Transitions~~
+* ~~Animation Interop~~
+* ~~Implicit Transitions~~
+* ~~ParallaxView~~
 
 ### Navigation
-+ NavigationView ❌
++ ~~NavigationView~~
   + PaneDisplayMode
     - Top
     - Left
@@ -85,8 +85,8 @@ English | [简体中文](https://github.com/Yuuki-Sakura/Fluent-UI/blob/master/R
     - LeftMinimal
   - PaneTitle
   - PaneFooter
-* Pivot ❌
-+ TabView ❌
+* ~~Pivot~~
++ ~~TabView~~
   - TabStripHeader
   - TabStripFooter
   + TabWidthBehavior
@@ -99,11 +99,11 @@ English | [简体中文](https://github.com/Yuuki-Sakura/Fluent-UI/blob/master/R
     - Close
 
 ### Scrolling
-* ScrollViewer ❌
-* Semantic zoom ❌
+* ~~ScrollViewer~~
+* ~~Semantic zoom~~
 
 ### Status and Info
-+ Progress controls ❌
++ ~~Progress controls~~
   + ProgressBar
     - Determinate
     - Pause
@@ -112,16 +112,16 @@ English | [简体中文](https://github.com/Yuuki-Sakura/Fluent-UI/blob/master/R
     - Determinate
     - Pause
     - Indeterminate
-* ToolTip ❌
+* ~~ToolTip~~
 
 ### Text
-* AutoSuggestBox ❌
-+ TextBox/Input ❌
+* ~~AutoSuggestBox~~
++ TextBox/Input~~
   - Normal/Input
   - Muti-lineTextBox/textarea
-+ RichEditBox ❌
-+ PasswordBox ❌
-+ NumberBox ❌
++ ~~RichEditBox~~
++ ~~PasswordBox~~
++ ~~NumberBox~~
 
 ### Shell
 * Tile ✔
